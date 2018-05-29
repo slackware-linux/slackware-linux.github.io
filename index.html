@@ -23,7 +23,7 @@
     <meta name="msapplication-TileImage" content="img/favicon/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
     <title>Slackware Linux</title>
-    <link href="css/slackware.css" rel="stylesheet">
+    <noscript id="deferred-styles"><link href="css/slackware.css" rel="stylesheet"></noscript>
 </head>
 
 <body>
@@ -179,5 +179,18 @@
 <script src="js/jquery-3.3.1.slim.min.js" async></script>
 <script src="js/popper.min.js" async></script>
 <script src="js/bootstrap.min.js" async></script>
+<script>
+    var loadDeferredStyles = function() {
+        var addStylesNode = document.getElementById("deferred-styles");
+        var replacement = document.createElement("div");
+        replacement.innerHTML = addStylesNode.textContent;
+        document.body.appendChild(replacement)
+        addStylesNode.parentElement.removeChild(addStylesNode);
+    };
+    var raf = window.requestAnimationFrame || window.mozRequestAnimationFrame ||
+        window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
+    if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+    else window.addEventListener('load', loadDeferredStyles);
+</script>
 </body>
 </html>
