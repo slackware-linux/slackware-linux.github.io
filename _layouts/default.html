@@ -1,0 +1,23 @@
+{% include header.html %}
+<main role="main" class="container">
+    <div class="row">
+        <div class="d-none d-sm-block col-3 bd-sidebar hidden-xs-down">
+            <!--navleft-->
+            {% include nav_left.html %}
+        </div>
+        <div class="col-9 news">
+            <div class="row title">
+                <h4>{{ page.title }}</h4>
+            </div>
+            <div class="row">
+                <!--content-->
+                <div class="d-block">
+                    {{ content }}
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--footer-->
+    {% include nav_footer.html %}
+</main><!-- /.container -->
+{% include footer.html %}
