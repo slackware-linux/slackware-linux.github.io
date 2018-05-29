@@ -2,8 +2,25 @@ body {
     padding-top: 5rem;
 }
 
+a {
+    color: #343a40 !important;
+    font-weight: 500;
+}
+
 .container {
     max-width: 940px
+}
+
+.news .title {
+    margin-bottom: 20px;
+}
+
+.news .row {
+    padding-left: 20px;
+}
+
+.news .row p:first-child {
+    padding-top: 10px
 }
 
 .starter-template {
