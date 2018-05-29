@@ -2,7 +2,7 @@ body {
     padding-top: 5rem;
 }
 
-a {
+.news a {
     color: #343a40 !important;
     font-weight: 500;
 }
