@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Slackware web site now delivered through Akamai"
-date:   2013-11-03 16:00:00 -0300
+day:   2013-11-03
 ---
 
 The pressure of delivering the Slackware web site - especially at release time - has been an issue for some time.
