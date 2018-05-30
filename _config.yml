@@ -1,5 +1,5 @@
 name: The Slackware Linux Project
 logo: /assets/images/s_topright.png
-baseurl: 'https://slackware-linux.github.io'
-url: 'https://slackware-linux.github.io'
+baseurl: 'https://slackware-linux.github.io/'
+url: 'https://slackware-linux.github.io/'
 permalink: /:categories/:year/:month/:day/:title:output_ext
