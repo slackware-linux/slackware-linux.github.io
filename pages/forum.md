@@ -3,4 +3,4 @@ title: Foruns
 layout: pages
 ---
 
-wait
+[Forum](https://www.linuxquestions.org/questions/slackware-14/)
