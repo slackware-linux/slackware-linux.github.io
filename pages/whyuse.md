@@ -1,6 +1,6 @@
 ---
 title: Why use
-subtitle: "Frequently Asked Questions"
+description: "I use the Slackware distribution, it's no secret to anyone and I defend my distribution with a tooth and nail. Several times I'm asked, 'Why do you use Slackware?' Others have already asked if Slackware is suitable for this or that."
 layout: pages
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Slackware 14.2 is released!"
 day:   2016-07-01
+description: "After a long development cycle (including many betas and release candidates to get everything just exactly perfect) we're pleased to announce the availability of the new stable release."
 ---
 
 After a long development cycle (including many betas and release candidates to get everything just exactly perfect) we're pleased to announce the availability of the new stable release. You'll find updates throughout the system, with the latest development tools and recent versions of applications, window managers, desktop environments, and utilities. The Linux kernel is updated to version 4.4.14 (part of the 4.4.x kernel series that will be getting long-term support from the kernel developers). We've brought together the best of these and other modern components and worked our magic on them. If you've used Slackware before, you'll find the system feels like home.

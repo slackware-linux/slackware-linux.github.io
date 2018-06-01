@@ -2,6 +2,7 @@
 layout: post
 title:  "Slackware web site now delivered through Akamai"
 day:   2013-11-03
+description: "The pressure of delivering the Slackware web site - especially at release time - has been an issue for some time."
 ---
 
 The pressure of delivering the Slackware web site - especially at release time - has been an issue for some time.
