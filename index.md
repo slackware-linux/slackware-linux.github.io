@@ -1,6 +1,5 @@
 ---
 title: The Slackware Linux Project
-subtitle: Slackware 14.2 is released!
 layout: default
 ---
 
