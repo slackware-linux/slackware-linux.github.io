@@ -14,7 +14,7 @@ In Slackware we have included a program called pppsetup to configure your system
 
 To run the program, make sure you are logged in as root. Then type pppsetup to run it. You should see a screen like this:
 
-![Screenshot of pppsetup](/assets/images/pppsetup.gif)
+![Screenshot of pppsetup](/assets/images/pppsetup.gif){: class="img-fluid"}
 
 The program will present a series of questions, to which you will feed it appropriate answers. Things like your modem device, the modem initialization string, and the ISP phone number. Some items will have a default, which you can accept in most cases.
 
