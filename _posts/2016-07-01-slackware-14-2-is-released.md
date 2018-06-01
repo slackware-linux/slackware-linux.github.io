@@ -23,6 +23,6 @@ Enjoy the new stable release!
 
 Pat and the Slackware crew
 
-+--------------------------+
+---
 
 <kbd>{{ page.day }}</kbd> Slackware 14.2 for ARM is also available. For details, see: http://arm.slackware.com.

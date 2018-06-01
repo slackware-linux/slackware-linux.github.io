@@ -11,4 +11,4 @@ The pressure of delivering the Slackware web site - especially at release time -
 
 A big thanks to the guys at Akamai for making this happen.
 
-+--------------------------+
+---
