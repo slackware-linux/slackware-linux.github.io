@@ -20,10 +20,6 @@ body {
     color: #b5b5b5;
 }
 
-.news .row {
-    padding-left: 20px;
-}
-
 .news .row p:first-child {
     padding-top: 10px
 }
@@ -34,15 +30,23 @@ body {
 }
 
 .bd-sidebar {
-    border-right: 1px solid rgba(0, 0, 0, .1);
-}
-
-.bd-sidebar {
     -ms-flex-order: 0;
     order: 0;
-    border-bottom: 1px solid rgba(0, 0, 0, .1);
+    /*border-bottom: 1px solid rgba(0, 0, 0, .1);*/
 }
 
 .pages a {
     text-decoration: underline;
+}
+
+.bd-sidebar {
+    border: 0px;
+    border-bottom: 0px;
+    border-right: 0px;
+}
+
+@media only screen and ( max-width: 575px) {
+    .row {
+        padding: 0 10px
+    }
 }
