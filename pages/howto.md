@@ -1,6 +1,7 @@
 ---
-title: How to
 layout: pages
+title: How to
+description: "Slackware's installation is a bit more simplistic than that of most other Linux distributions and is very reminiscent of installing one of the varieties of BSD operating systems."
 ---
 
 # slackware:install - SlackDocs
@@ -33,3 +34,5 @@ layout: pages
 `Login` and `startx`
 
 ;)
+
+**Font:** [docs.slackware.com](https://docs.slackware.com/slackware:install)

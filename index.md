@@ -1,6 +1,6 @@
 ---
-title: The Slackware Linux Project
 layout: default
+title: The Slackware Linux Project
 ---
 
 {% for post in site.posts %}
