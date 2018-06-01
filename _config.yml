@@ -1,6 +1,6 @@
 name: The Slackware Linux Project
 description: 'The Official Release of Slackware Linux by Patrick Volkerding is an advanced Linux operating system, designed with the twin goals of ease of use and stability as top priorities. Including the latest popular software while retaining a sense of tradition, providing simplicity and ease of use alongside flexibility and power, Slackware brings the best of all worlds to the table.'
-logo: assets/images/s_topright.png
+logo: /assets/images/s_topright.png
 baseurl: 'https://slackware-linux.github.io'
 url: 'https://slackware-linux.github.io'
 permalink: /:categories/:year/:month/:day/:title:output_ext
